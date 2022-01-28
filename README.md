@@ -1,5 +1,6 @@
-## Olá, me chamo Érick ! 
-### Bem vindo ao meu perfil GitHub 👋
+[![Twitter Badge](https://img.shields.io/badge/-@_erickcampos-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/_erickcampos)](https://twitter.com/_erickcampos) 
+[![Linkedin Badge](https://img.shields.io/badge/-Erick%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposerick/)](https://www.linkedin.com/in/camposerick/) 
+[![Gmail Badge](https://img.shields.io/badge/-erick.acampos@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.acampos@yahoo.com.br)](mailto:erick.acampos@yahoo.com.br)
 
 
 ### Ferramentas e Tecnologias
