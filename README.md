@@ -1,19 +1,42 @@
-[![Twitter Badge](https://img.shields.io/badge/-@_erickcampos-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/_erickcampos)](https://twitter.com/_erickcampos) 
-[![Linkedin Badge](https://img.shields.io/badge/-Erick%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposerick/)](https://www.linkedin.com/in/camposerick/) 
-[![Gmail Badge](https://img.shields.io/badge/-erick.acampos@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.acampos@yahoo.com.br)](mailto:erick.acampos@yahoo.com.br)
+## Hello, World! 👋
 
-<a href="https://www.linkedin.com/in/camposerick/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:erick.acampos@yahoo.com.br" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/camposerick_/" target="_blank"><img src="https://img.shields.io/badge/-@camposerick__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+I'm Erick Campos. Aspiring full-stack developer.
 
 
 
-### Ferramentas e Tecnologias
+### About Me
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+- 🎓 I'm graduated in **Mechanical Engineering** and I have experience in production planning and control;
+
+- :computer: Currently learning HTML, CSS and JS;
+
+- ✍️ &nbsp;I have passion for learning;
+
+- ⚡ My hobbies are play the guitar and videogames.
 
 
 
+### Tech Stack
+<div style="display: inline_block"><br>
+  <img align="center" alt="PedroTaveira10-Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="PedroTaveira10-Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PedroTaveira10-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+   
+  <img align="center" alt="PedroTaveira10-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+</div>
+
+
+### Feel free to contact me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Erick%20Campos-078f2b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposerick/)](https://www.linkedin.com/in/camposerick/) 
+[![Gmail Badge](https://img.shields.io/badge/-erick.acampos@yahoo.com.br-078f2b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.acampos@yahoo.com.br)](mailto:erick.acampos@yahoo.com.br)
+[![Instagram Badge](https://img.shields.io/badge/-camposerick_-078f2b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/camposerick_)](https://www.instagram.com/camposerick_)
+[![Twitter Badge](https://img.shields.io/badge/-@_erickcampos-078f2b?style=flat-square&labelColor=078f2b&logo=twitter&logoColor=white&link=https://twitter.com/_erickcampos)](https://twitter.com/_erickcampos) 
+[![Telegram Badge](https://img.shields.io/badge/-camposerick-078f2b?style=flat-square&labelColor=078f2b&logo=telegram&logoColor=white&link=https://t.me/camposerick)](https://t.me/camposerick) 
+
+<!--
+<img align="center" alt="PedroTaveira10-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+-->
 
 
 <!--
