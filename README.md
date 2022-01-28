@@ -2,9 +2,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Erick%20Campos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposerick/)](https://www.linkedin.com/in/camposerick/) 
 [![Gmail Badge](https://img.shields.io/badge/-erick.acampos@yahoo.com.br-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.acampos@yahoo.com.br)](mailto:erick.acampos@yahoo.com.br)
 
-<a href="https://www.linkedin.com/in/camposerick/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:erick.acampos@yahoo.com.br"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/camposerick_/"><img src="https://img.shields.io/badge/-@abhi__1507_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/camposerick/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:erick.acampos@yahoo.com.br" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="https://www.instagram.com/camposerick_/" target="_blank"><img src="https://img.shields.io/badge/-@camposerick__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 
 
