@@ -31,7 +31,7 @@ I'm Erick Campos. Aspiring full-stack developer.
 [![Linkedin Badge](https://img.shields.io/badge/-Erick%20Campos-078f2b?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/camposerick/)](https://www.linkedin.com/in/camposerick/) 
 [![Gmail Badge](https://img.shields.io/badge/-erick.acampos@yahoo.com.br-078f2b?style=flat-square&logo=Gmail&logoColor=white&link=mailto:erick.acampos@yahoo.com.br)](mailto:erick.acampos@yahoo.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-camposerick_-078f2b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/camposerick_)](https://www.instagram.com/camposerick_)
-[![Twitter Badge](https://img.shields.io/badge/-@_erickcampos-078f2b?style=flat-square&labelColor=078f2b&logo=twitter&logoColor=white&link=https://twitter.com/_erickcampos)](https://twitter.com/_erickcampos) 
+[![Twitter Badge](https://img.shields.io/badge/-@camposerick_-078f2b?style=flat-square&labelColor=078f2b&logo=twitter&logoColor=white&link=https://twitter.com/camposerick_)](https://twitter.com/camposerick_) 
 [![Telegram Badge](https://img.shields.io/badge/-camposerick-078f2b?style=flat-square&labelColor=078f2b&logo=telegram&logoColor=white&link=https://t.me/camposerick)](https://t.me/camposerick) 
 
 <!--
