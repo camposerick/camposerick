@@ -12,8 +12,9 @@ I'm Erick Campos. Aspiring full-stack developer.
 
 - ✍️ &nbsp;I have passion for learning;
 
-- ⚡ My hobbies are play the guitar and videogames.
+- 🎸 Musician and 🎮 Gamer.
 
+-  🦾 "It’s never too late to be what you might have been." - George Eliot.
 
 
 ### Tech Stack
