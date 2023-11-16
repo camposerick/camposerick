@@ -22,10 +22,14 @@
   </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
+  </a>
+  <a href="https://www.microsoft.com/pt-br/microsoft-365/excel" target="_blank" rel="noreferrer"> 
+    <img src="https://www.svgrepo.com/show/373590/excel2.svg" alt="excel" width="40" height="40"/> 
   </a> 
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> 
   </a> 
+
 </p>
 </div>
 
